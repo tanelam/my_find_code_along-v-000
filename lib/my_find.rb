@@ -1,5 +1,4 @@
 
-
 def my_find(collection)
   x = 0
 
